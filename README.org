@@ -1,1 +1,4 @@
-ploopy nano mod to use veichu BTUs
+* ploopy nano mod to use veichu BTUs
+** i had planned to print a presentable copy of these models and document the veichu BTU mod, but after trialling both 9mm and 7.5mm veichu BTUs i've concluded it's not worth finalising the model
+** after speaking with people who have made custom trackballs, it seems static bearings are the way to go
+** https://www.aliexpress.com/item/4000141292153.html i have ordered some of these and when they arrive i will adjust the model to fit them
