@@ -1,4 +1,6 @@
 * ploopy nano mod to using GLKJ CY-8H BTUs
 the plan was initially to model and document a ploopy nano veichu BTU mod, but after trialling both 9mm and 7.5mm veichu BTUs i've concluded it's not worth finalising the model
 
-i then ordered https://www.aliexpress.com/item/4000141292153.html and have refactored the model to use them and found that they are at a great spot between higher end bosch BTUs and static bearings, in that they spin freely but aren't too slippery, and there is less stiction than when using static bearings
+i then ordered https://www.aliexpress.com/item/1005004782384210.html and have refactored the model to use them and found that they are at a great spot between higher end bosch BTUs and static bearings, in that they spin freely but aren't too slippery, and there is less stiction than when using static bearings
+
+[[./img/schem.png]]
