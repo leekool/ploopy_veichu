@@ -1,4 +1,4 @@
-* ploopy nano mod to using GLKJ CY-8H BTUs
+* ploopy nano GLKJ CY-8H BTU mod
 since bosch BTUs are unobtainable for a reasonable price in australia, i initially created models to use the ploopy nano with 7.5mm and 9mm veichu BTUs. i found that they were way too scratchy and had less spin than the single-direction roller bearings.
 
 not wanting my 3d work to go to waste, i found and ordered https://www.aliexpress.com/item/1005004782384210.html. i was curious about them in their diagram there's less 'bearing' balls inside the unit, which i thought would make them less scratchy. i edited the model to use them and found them to be an improvement over both the original bearings and static ceramic bearings, in that they spin freely but aren't too slippery, and there is less stiction than static bearings.
